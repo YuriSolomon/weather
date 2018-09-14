@@ -2,7 +2,21 @@
     align-self: center;
 }
 
+.headline a{
+    text-decoration: none;
+    color: black;
+}
+
 .searchBar {
     margin-right: 20px;
     margin-left: 20px;
 }
+
+.d-flex {
+    background-color: white !important;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+  }

@@ -2,7 +2,7 @@ Vue.component('heading', {
     template: `
     <div class="header d-flex flex-wrap justify-content-center justify-content-md-around">
         <div class="headline">
-            <h1>Weather in City</h1>
+        <a href="index.html"><h1>Weather in City</h1></a>
         </div>
         <div class="searchBar">
             <form class="form-inline">

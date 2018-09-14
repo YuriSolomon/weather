@@ -13,7 +13,6 @@ function getWeather() {
 
                     var data = realData;
                     this.weather = data.list;
-                    console.log(this.weather);
                 })
         }
     })
