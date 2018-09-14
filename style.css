@@ -2,7 +2,7 @@
     align-self: center;
 }
 
-.headline a{
+.headline a {
     text-decoration: none;
     color: black;
 }
@@ -17,6 +17,31 @@
 }
 
 .square {
-    width: 100px;
-    height: 100px;
-  }
+    width: 250px;
+    height: 250px;
+}
+
+.city {
+    text-align: center;
+}
+
+.sun {
+    min-width: 250px;
+    min-height: 250px;
+    background: url('sun.jpg');
+    background-size: 250px 250px;
+}
+
+.rain {
+    min-width: 250px;
+    min-height: 250px;
+    background: url('rain.jpg');
+    background-size: 250px 250px;
+}
+
+.cloud {
+    min-width: 250px;
+    min-height: 250px;
+    background: url('cloud.jpg');
+    background-size: 250px 250px;
+}
